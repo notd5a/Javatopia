@@ -12,6 +12,7 @@
 <code>//call the any utopia API method using uapi.method_here("parameters");</code>
 
 > Example's: 
+
 <code>uapi.getSystemInfo();</code>
 
 <code>uapi.setProfileStatus("available", "happy");</code>
