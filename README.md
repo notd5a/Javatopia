@@ -8,4 +8,5 @@
 3. Create a new class and call the WebAPIWrapper class as an Object
   
 <code>WebAPIWrapper uapi = new WebAPIWrapper("//API KEY HERE");</code>
+
 <code>//call the any utopia API method using uapi.method_here("parameters");</code>
