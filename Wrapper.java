@@ -16,7 +16,7 @@ public class Wrapper {
        String method = "getProfileStatus";
 
        //Method 2: java.net.http.HttpClient
-       WebAPIWrapper w = new WebAPIWrapper("91D89FE1238875936848D33008424971");
+       WebAPIWrapper w = new WebAPIWrapper("TOKEN_HERE");
 
        w.getSystemInfo();
 
