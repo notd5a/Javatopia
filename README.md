@@ -15,6 +15,9 @@
 <code>uapi.getSystemInfo();</code>  
 <code>uapi.setProfileStatus("available", "happy");</code>
 
+> Optional Parameters
+Keep parameters you dont want to include as --> null
+
 > Note:  
 The wrapper class is an example class of how you would access the API.  
 The WebAPIWrapper class contains the API wrapper.
